@@ -6,7 +6,7 @@ ajouter code pen ici
 
 ## avec un before image
 
-ajouter code pen ici
+https://codepen.io/matuzo/pen/sKrCq
 
 
 ## avec une image de fond
