@@ -1,4 +1,4 @@
-# Solutions pour faire des puces =
+# Solutions pour faire des puces
 
 ## avec un before
 
